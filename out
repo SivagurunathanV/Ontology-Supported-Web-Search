@@ -1,0 +1,369 @@
+<?xml version="1.0"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="n"/>
+    <variable name="result"/>
+  </head>
+  <results>
+    <result>
+      <binding name="n">
+        <literal>MARTINSHKRELI</literal>
+      </binding>
+      <binding name="result">
+        <literal>father,Asset management</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MARTINLUTHER</literal>
+      </binding>
+      <binding name="result">
+        <literal>Rhineland-Palatinate,theologian,author,translator,monk,linguist,professor,socialite,clergy,BIRTH PLACE,PLACE OF BIRTH,Germany</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MARTINLUTHER</literal>
+      </binding>
+      <binding name="result">
+        <literal>actor,United States,musician</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MARTINLUTHER</literal>
+      </binding>
+      <binding name="result">
+        <literal>Rhineland-Palatinate,politician,BIRTH PLACE,PLACE OF BIRTH,Germany</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MARTINLUTHER</literal>
+      </binding>
+      <binding name="result">
+        <literal>Rhineland-Palatinate,politician,BIRTH PLACE,Germany</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MARTINSHEEN</literal>
+      </binding>
+      <binding name="result">
+        <literal>actor,film actor,United States,Ireland,PLACE OF BIRTH</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MARSHALLMCLUHAN</literal>
+      </binding>
+      <binding name="result">
+        <literal>philosopher,author,Canada,last name,BIRTH PLACE,PLACE OF BIRTH</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MICHAELJACKSON</literal>
+      </binding>
+      <binding name="result">
+        <literal>singer,United States,Singer-songwriter,poet,businessman,musician,Music artist,screenwriter,film director,composer,actor,dancer,entertainer,discography,BIRTH PLACE,PLACE OF BIRTH,businessperson</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MICHAELJACKSON</literal>
+      </binding>
+      <binding name="result">
+        <literal>basketeer,United States,basketball player,PLACE OF BIRTH,jock,point guard,Sacramento Kings</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MICHAELJACKSON</literal>
+      </binding>
+      <binding name="result">
+        <literal>Brazil women's national football team,association football,Brazil,BIRTH PLACE,football player,ACF Torino ASD</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MICHAELJACKSON</literal>
+      </binding>
+      <binding name="result">
+        <literal>journalist,columnist,author,United Kingdom,BIRTH PLACE,PLACE OF BIRTH</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MICHAELJACKSON</literal>
+      </binding>
+      <binding name="result">
+        <literal>United States,radio host</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MICHAELJACKSON</literal>
+      </binding>
+      <binding name="result">
+        <literal>Church of Ireland,RELIGION,priest,PREDECESSOR</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MICHAELJACKSON</literal>
+      </binding>
+      <binding name="result">
+        <literal>singer</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MICHAELJACKSON</literal>
+      </binding>
+      <binding name="result">
+        <literal>Preston North End F.C.,Blackpool F.C.,Shrewsbury Town F.C.,wingback,BIRTH PLACE,Tranmere Rovers F.C.,Bury F.C.,Crewe Alexandra F.C.,football player</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MICHAELJACKSON</literal>
+      </binding>
+      <binding name="result">
+        <literal>executive,EMPLOYER,producer</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MICHAELJACKSON</literal>
+      </binding>
+      <binding name="result">
+        <literal>computer scientist,consultant,United Kingdom,engineer</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MICHAELJACKSON</literal>
+      </binding>
+      <binding name="result">
+        <literal>Professionalism in association football,Bishop's Cleeve F.C.,Bath City F.C.,Cirencester Town F.C.,BIRTH PLACE,Cheltenham Town F.C.,Swansea City A.F.C.,Weston-super-Mare A.F.C.,football player</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MICHAELJACKSON</literal>
+      </binding>
+      <binding name="result">
+        <literal>United States,Baltimore Ravens,football player,Cleveland Browns</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MICHAELJACKSON</literal>
+      </binding>
+      <binding name="result">
+        <literal>New Zealand,poet,BIRTH PLACE,PLACE OF BIRTH,anthropologist</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MICHAELJACKSON</literal>
+      </binding>
+      <binding name="result">
+        <literal>soldier</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MICHAELJACKSON</literal>
+      </binding>
+      <binding name="result">
+        <literal>priest,canon</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MICHAELJACKSON</literal>
+      </binding>
+      <binding name="result">
+        <literal>Professionalism in association football,Wakefield Trinity Wildcats,Sheffield Eagles,Hunslet Hawks,football player,Great Britain national rugby league team,Halifax RLFC</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MICHAELJACKSON</literal>
+      </binding>
+      <binding name="result">
+        <literal>journalist,politician,Niue</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MICHAELJACKSON</literal>
+      </binding>
+      <binding name="result">
+        <literal>officer,United Kingdom,General,BIRTH PLACE,PLACE OF BIRTH</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MICHAELJACKSON</literal>
+      </binding>
+      <binding name="result">
+        <literal>actor,Canada,grip,BIRTH PLACE,PLACE OF BIRTH,gaffer</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MICHAELJACKSON</literal>
+      </binding>
+      <binding name="result">
+        <literal>United States,BIRTH PLACE,sheriff</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MICHAELJACKSON</literal>
+      </binding>
+      <binding name="result">
+        <literal>United States,Seattle Seahawks,BIRTH PLACE,football player</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MICHAELJORDAN</literal>
+      </binding>
+      <binding name="result">
+        <literal>Boreham Wood F.C.,Concord Rangers F.C.,goalkeeper,Eastbourne Borough F.C.,Yeovil Town F.C.,Lewes F.C.,Chesterfield F.C.,England national under-19 football team,Arsenal F.C. Academy,Stevenage F.C.,Farnborough F.C.,England national under-17 football team,BIRTH PLACE,football player,Arsenal F.C</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MICHAELJORDAN</literal>
+      </binding>
+      <binding name="result">
+        <literal>politician</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MICHAELJORDAN</literal>
+      </binding>
+      <binding name="result">
+        <literal>actor,United States,BIRTH PLACE,PLACE OF BIRTH</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MICHAELJORDAN</literal>
+      </binding>
+      <binding name="result">
+        <literal>basketeer,United States,North Carolina Tar Heels men's basketball,father,chairman,shooting guard,Chicago Bulls,Washington Wizards,basketball player,jock</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MICHAELJORDAN</literal>
+      </binding>
+      <binding name="result">
+        <literal>mycologist,author,father,chairman</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MICHAELPHELPS</literal>
+      </binding>
+      <binding name="result">
+        <literal>swimming,United States,PLACE OF BIRTH,North Baltimore Aquatic Club,jock</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MARSHALLMATHERS</literal>
+      </binding>
+      <binding name="result">
+        <literal>Film producer,United States,composer,channel,rapper,actor,Rapping,songster,radio station,The Hero Initiative,PLACE OF BIRTH,Record producer</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MORGANFAIRCHILD</literal>
+      </binding>
+      <binding name="result">
+        <literal>actor,actress,film actor,United States,BIRTH PLACE,PLACE OF BIRTH</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MASONRUDOLPH</literal>
+      </binding>
+      <binding name="result">
+        <literal>MASTERS,EXTOUR,professional golfer,BIRTH PLACE,USOPEN,PGA,DEATH PLACE</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MICHAELKEATON</literal>
+      </binding>
+      <binding name="result">
+        <literal>film director,film actor,singer,United States,actor,voice actor,BIRTH PLACE,PLACE OF BIRTH</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MORRISCHESTNUT</literal>
+      </binding>
+      <binding name="result">
+        <literal>actor,United States,BIRTH PLACE,film,PLACE OF BIRTH</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MORGANMOSES</literal>
+      </binding>
+      <binding name="result">
+        <literal>Washington Redskins,United States,BIRTH PLACE,PLACE OF BIRTH</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MICHAELKORS</literal>
+      </binding>
+      <binding name="result">
+        <literal>couturier,United States,BIRTH PLACE,PLACE OF BIRTH</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MORRISDAY</literal>
+      </binding>
+      <binding name="result">
+        <literal>singer,United States,composer,drummer,actor,PLACE OF BIRTH,musician</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MICHAELRAPAPORT</literal>
+      </binding>
+      <binding name="result">
+        <literal>actor,film actor,United States,BIRTH PLACE,PLACE OF BIRTH</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MICHAELBAY</literal>
+      </binding>
+      <binding name="result">
+        <literal>film director,Film producer,United States,BIRTH PLACE,PLACE OF BIRTH</literal>
+      </binding>
+    </result>
+    <result>
+      <binding name="n">
+        <literal>MORGANFREEMAN</literal>
+      </binding>
+      <binding name="result">
+        <literal>actor,film director,film actor,Film producer,United States,teller,BIRTH PLACE,PLACE OF BIRTH</literal>
+      </binding>
+    </result>
+  </results>
+</sparql>

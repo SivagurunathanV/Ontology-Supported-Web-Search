@@ -1,0 +1,7 @@
+PROJECT TITLE	:	Ontology Supported Web Search
+LANGUAGE USED	:	JAVA
+
+To execute the project,
+
+1. Load the OSWS into an IDE (IntelliJ or Eclipse)
+2. Execute RdfAutoComplete.java

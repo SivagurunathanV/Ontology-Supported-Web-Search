@@ -1,0 +1,1014 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://xmlns.com/foaf/0.1/">
+  <rdf:Description rdf:about="http://utdallas/semclass#03630911n">
+    <j.0:name>NELSONMANDELA</j.0:name>
+    <j.0:depiction>single,song,ARTIST,PRODUCER,FROM ALBUM,RECORD LABEL,WRITER,GENRE,PERFORMER</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01566610n">
+    <j.0:name>KIMCLARK</j.0:name>
+    <j.0:depiction>United States,priest,president</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00505284n">
+    <j.0:name>FOSTERBROOKS</j.0:name>
+    <j.0:depiction>actor,comedian,United States,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#13924867n">
+    <j.0:name>THOMASRAWLS</j.0:name>
+    <j.0:depiction></j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01270859n">
+    <j.0:name>RUSSELLBRAND</j.0:name>
+    <j.0:depiction>columnist,philosopher,singer,Film producer,author,blogger,United Kingdom,radio host,actor,comedian,playwright,Television presenter,BIRTH PLACE,poet,PLACE OF BIRTH,novelist,musician</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00641723n">
+    <j.0:name>MICHAELJACKSON</j.0:name>
+    <j.0:depiction>United States,BIRTH PLACE,sheriff</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03377757n">
+    <j.0:name>MICHAELBAY</j.0:name>
+    <j.0:depiction>film director,Film producer,United States,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01392978n">
+    <j.0:name>RUSSELLWILSON</j.0:name>
+    <j.0:depiction>United States,Seattle Seahawks,quarterback,Gastonia Grizzlies,Tri-City Dust Devils,NC State Wolfpack,BIRTH PLACE,PLACE OF BIRTH,jock,Wisconsin Badgers</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00259384n">
+    <j.0:name>HOWARDSTERN</j.0:name>
+    <j.0:depiction>actor,United States,Television presenter,radio host,BIRTH PLACE,photographer,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03332139n">
+    <j.0:name>PETERSONPIPES</j.0:name>
+    <j.0:depiction></j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03160113n">
+    <j.0:name>STEWARTGRANGER</j.0:name>
+    <j.0:depiction>England,United Kingdom,actor,basketball player,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00485585n">
+    <j.0:name>GRAHAMGREENE</j.0:name>
+    <j.0:depiction>actor,Canada,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03414592n">
+    <j.0:name>MICHAELJACKSON</j.0:name>
+    <j.0:depiction>basketeer,United States,basketball player,PLACE OF BIRTH,jock,point guard,Sacramento Kings</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00502811n">
+    <j.0:name>MICHAELJORDAN</j.0:name>
+    <j.0:depiction>Boreham Wood F.C.,Concord Rangers F.C.,goalkeeper,Eastbourne Borough F.C.,Yeovil Town F.C.,Lewes F.C.,Chesterfield F.C.,England national under-19 football team,Arsenal F.C. Academy,Stevenage F.C.,Farnborough F.C.,England national under-17 football team,BIRTH PLACE,football player,Arsenal F.C</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02786239n">
+    <j.0:name>KINGKONG</j.0:name>
+    <j.0:depiction>knockout,actor,BIRTH PLACE,India</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00044316n">
+    <j.0:name>THOMASHOBBES</j.0:name>
+    <j.0:depiction>philosopher,author,United Kingdom,PLACE OF BIRTH,knowledge</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03150304n">
+    <j.0:name>KELLYCLARKSON</j.0:name>
+    <j.0:depiction>actress,singer,United States,composer,songster,Singer-songwriter,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01913642n">
+    <j.0:name>REEDTIMMER</j.0:name>
+    <j.0:depiction>meteorologist,FIELDS,BIRTH PLACE</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02368889n">
+    <j.0:name>GORDONRAMSAY</j.0:name>
+    <j.0:depiction>Voice acting,United States</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02840451n">
+    <j.0:name>ALEXANDERHAMILTON</j.0:name>
+    <j.0:depiction>author,physician</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03112911n">
+    <j.0:name>WALLACESTEGNER</j.0:name>
+    <j.0:depiction>United States,author,historian,short story,environmentalist,BIRTH PLACE,novelist</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02040098n">
+    <j.0:name>THOMASHOOKER</j.0:name>
+    <j.0:depiction>United Kingdom,BIRTH PLACE,PLACE OF BIRTH,DEATH PLACE</j.0:depiction>
+    <j.0:depiction>United Kingdom,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01241159n">
+    <j.0:name>ROBINSONCANO</j.0:name>
+    <j.0:depiction>WEBSITE ACCOUNT ON,AWARDS,Trenton Thunder,STAT LABEL,baseball player,New York Yankees,POSITION,Gulf Coast League Yankees,Dominican Republic,BIRTH PLACE,PLACE OF BIRTH,Seattle Mariners</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03035841n">
+    <j.0:name>COLEBEASLEY</j.0:name>
+    <j.0:depiction>COLLEGE,split end,BIRTH PLACE,Dallas Cowboys,jock</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01209791n">
+    <j.0:name>CLARKKENT</j.0:name>
+    <j.0:depiction>disc jockey,GENRE,Record producer,ASSOCIATED ACT</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00025572n">
+    <j.0:name>JAMESDEAN</j.0:name>
+    <j.0:depiction>film actor,United States,actor,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03674530n">
+    <j.0:name>TUCKERCARLSON</j.0:name>
+    <j.0:depiction>columnist,anchorman,United States,pundit,journalist,Advocacy journalism,Television presenter,correspondent,BIRTH PLACE,PLACE OF BIRTH,newscaster</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03615487n">
+    <j.0:name>LEEMAJORS</j.0:name>
+    <j.0:depiction>actor,Voice acting,United States,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01166388n">
+    <j.0:name>NELSONCRUZ</j.0:name>
+    <j.0:depiction>Cape Verde,athletics</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00240294n">
+    <j.0:name>GRAHAMHARRELL</j.0:name>
+    <j.0:depiction>Green Bay Packers,New York Jets,United States,quarterback,Saskatchewan Roughriders,BIRTH PLACE,PLACE OF BIRTH,jock</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#15675498n">
+    <j.0:name>GRIFFINGLUCK</j.0:name>
+    <j.0:depiction>actor,United States,BIRTH PLACE,The Hero Initiative,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01405947n">
+    <j.0:name>SCOTTEASTWOOD</j.0:name>
+    <j.0:depiction>actor,United States,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#14422630n">
+    <j.0:name>BLACKPANTHER</j.0:name>
+    <j.0:depiction>TRAINER</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03277027n">
+    <j.0:name>WARDBOND</j.0:name>
+    <j.0:depiction>United States,actor,BIRTH PLACE,PLACE OF BIRTH,USC Trojans football</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#16565895n">
+    <j.0:name>NELSONAGHOLOR</j.0:name>
+    <j.0:depiction>HIGHSCHOOL,PASTSCHOOLS,CURRENT POSITION,BIRTH PLACE,USC Trojans football</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00053155n">
+    <j.0:name>NELSONMANDELA</j.0:name>
+    <j.0:depiction>nationalist leader,statesman,politician,Members of the Western Australian Legislative Council,South Africa,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+    <j.0:depiction>nationalist leader,statesman,politician,Members of the Western Australian Legislative Council,South Africa,BIRTH PLACE</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00731621n">
+    <j.0:name>SULLIVANSTAPLETON</j.0:name>
+    <j.0:depiction>actor,BIRTH PLACE,PLACE OF BIRTH,Australia</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03452952n">
+    <j.0:name>NELSONCRUZ</j.0:name>
+    <j.0:depiction>Texas Rangers,Huntsville Stars,outfielder,Baltimore Orioles,Sacramento River Cats</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00035789n">
+    <j.0:name>HENRYFORD</j.0:name>
+    <j.0:depiction>United States,author,industrialist,engineer,entrepreneur,magnate,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#13826075n">
+    <j.0:name>RUSSELLWILSON</j.0:name>
+    <j.0:depiction></j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02102818n">
+    <j.0:name>SMITHTHOMPSON</j.0:name>
+    <j.0:depiction>United States,Navy Secretary,BIRTH PLACE,judge,PLACE OF BIRTH,lawyer</j.0:depiction>
+    <j.0:depiction>United States,Navy Secretary,BIRTH PLACE,judge,lawyer</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03218410n">
+    <j.0:name>THOMASJEFFERSON</j.0:name>
+    <j.0:depiction>politician,United Kingdom,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+    <j.0:depiction>politician,United Kingdom,BIRTH PLACE</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00501248n">
+    <j.0:name>THOMASJANE</j.0:name>
+    <j.0:depiction>RELIGION,priest,Bishop of Norwich,TITLE,SUCCESSOR,DIOCESE,PREDECESSOR</j.0:depiction>
+    <j.0:depiction>RELIGION,priest,Bishop of Norwich,PREDECESSOR</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00222299n">
+    <j.0:name>WALLACEHUO</j.0:name>
+    <j.0:depiction>actor,singer,BIRTH PLACE</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02629638n">
+    <j.0:name>HENRYFORD</j.0:name>
+    <j.0:depiction>politician</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01748927n">
+    <j.0:name>HENRYHILL</j.0:name>
+    <j.0:depiction>designer</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00045067n">
+    <j.0:name>HOWARDHUGHES</j.0:name>
+    <j.0:depiction>United States,master sergeant,film maker,industrialist,airman,magnate,film director,pilot,Film producer,rocket engineer,engineer,investor,BIRTH PLACE,PLACE OF BIRTH,philanthropy</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03863375n">
+    <j.0:name>GRAHAMNORTON</j.0:name>
+    <j.0:depiction>columnist,comedian,actor,Ireland,Television presenter,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03192537n">
+    <j.0:name>HARRISONFORD</j.0:name>
+    <j.0:depiction>actor,film actor,Film producer,United States,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00583323n">
+    <j.0:name>JORDANBELFORT</j.0:name>
+    <j.0:depiction>pep talk,United States,author,PLACE OF BIRTH,white-collar crime,entrepreneur</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02996947n">
+    <j.0:name>JAMESDEAN</j.0:name>
+    <j.0:depiction>cricketer,Sussex County Cricket Club,COLUMN,BIRTH PLACE</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01208807n">
+    <j.0:name>KELLYRIPA</j.0:name>
+    <j.0:depiction>actor,actress,United States,Rykä,Television presenter,producer,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03296441n">
+    <j.0:name>BENNETTCERF</j.0:name>
+    <j.0:depiction>United States,publisher,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00052384n">
+    <j.0:name>MARTINLUTHER</j.0:name>
+    <j.0:depiction>Rhineland-Palatinate,theologian,author,translator,monk,linguist,professor,socialite,clergy,BIRTH PLACE,PLACE OF BIRTH,Germany</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01853318n">
+    <j.0:name>KINGKONG</j.0:name>
+    <j.0:depiction>singer,Deejay,LABEL,BIRTH PLACE,GENRE,Jamaica</j.0:depiction>
+    <j.0:depiction>singer,Deejay,BIRTH PLACE,Jamaica</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02550793n">
+    <j.0:name>BLACKFRIDAY</j.0:name>
+    <j.0:depiction>actor,Canada,film director,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#14149587n">
+    <j.0:name>PEREZPRADO</j.0:name>
+    <j.0:depiction>Cuba,composer,bandleader,BIRTH PLACE,PLACE OF BIRTH,musician</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01113136n">
+    <j.0:name>MICHAELJORDAN</j.0:name>
+    <j.0:depiction>politician</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01499404n">
+    <j.0:name>MICHAELJACKSON</j.0:name>
+    <j.0:depiction>Professionalism in association football,Wakefield Trinity Wildcats,Sheffield Eagles,Hunslet Hawks,football player,Great Britain national rugby league team,Halifax RLFC</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01342317n">
+    <j.0:name>HENRYHILL</j.0:name>
+    <j.0:depiction>cricketer,First-class cricket,COLUMN,BIRTH PLACE,South Australia cricket team</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02047191n">
+    <j.0:name>JAMESTAYLOR</j.0:name>
+    <j.0:depiction>politician,lawyer</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02183457n">
+    <j.0:name>HENRYHILL</j.0:name>
+    <j.0:depiction>University of Michigan,BIRTH PLACE,player</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02506457n">
+    <j.0:name>JAMESTAYLOR</j.0:name>
+    <j.0:depiction>curator,expert,author,art historian</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00048418n">
+    <j.0:name>VARGASLLOSA</j.0:name>
+    <j.0:depiction>columnist,author,politician,dramaturge,Spain,journalist,last name,BIRTH PLACE,novelist,Peru,essayist</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#15813161n">
+    <j.0:name>GORDONHAYWARD</j.0:name>
+    <j.0:depiction>COLUMN,BIRTH PLACE,Nottinghamshire County Cricket Club</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02719427n">
+    <j.0:name>JAMESTAYLOR</j.0:name>
+    <j.0:depiction>English,Leicestershire County Cricket Club,CONFLICT,EDUCATED AT,Scotland national cricket team,COLUMN,BIRTH PLACE,MILITARY BRANCH,DEATH PLACE</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03391103n">
+    <j.0:name>MICHAELJACKSON</j.0:name>
+    <j.0:depiction>Church of Ireland,RELIGION,priest,PREDECESSOR</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03183561n">
+    <j.0:name>ROSSPEROT</j.0:name>
+    <j.0:depiction>United States,officer,politician,entrepreneur,BIRTH PLACE,businessperson,businessman</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03011217n">
+    <j.0:name>JAMESTAYLOR</j.0:name>
+    <j.0:depiction>EDUCATED AT,neurologist</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00695422n">
+    <j.0:name>TAYLORKINNEY</j.0:name>
+    <j.0:depiction>actor,United States,model,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03561134n">
+    <j.0:name>ALEXANDERHAMILTON</j.0:name>
+    <j.0:depiction>merchant,captain,privateer</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#15395717n">
+    <j.0:name>MORGANMOSES</j.0:name>
+    <j.0:depiction>Washington Redskins,United States,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00617783n">
+    <j.0:name>LEESTROBEL</j.0:name>
+    <j.0:depiction>minister,jurist,Jurist Legal News &amp; Research,United States,author,journalist,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00696011n">
+    <j.0:name>MARTINLUTHER</j.0:name>
+    <j.0:depiction>Rhineland-Palatinate,politician,BIRTH PLACE,PLACE OF BIRTH,Germany</j.0:depiction>
+    <j.0:depiction>Rhineland-Palatinate,politician,BIRTH PLACE,Germany</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03196363n">
+    <j.0:name>MARSHALLMATHERS</j.0:name>
+    <j.0:depiction>Film producer,United States,composer,channel,rapper,actor,Rapping,songster,radio station,The Hero Initiative,PLACE OF BIRTH,Record producer</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03571490n">
+    <j.0:name>HOWARDSTERN</j.0:name>
+    <j.0:depiction>defense attorney,significant other,lawyer</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01993011n">
+    <j.0:name>MICHAELJORDAN</j.0:name>
+    <j.0:depiction>mycologist,author,father,chairman</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00318613n">
+    <j.0:name>SCOTTFROST</j.0:name>
+    <j.0:depiction>Green Bay Packers,Stanford University,SPORT,New York Jets,Stanford Cardinal football,Kansas State University,Cleveland Browns,University of Oregon,CURRENT CONFERENCE,EDUCATED AT,PLAYER POSITIONS,CHAMPIONSHIPS,University of Northern Iowa,University of Nebraska system,Tampa Bay Buccaneers,University of Nebraska,BIRTH PLACE,coach</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03335837n">
+    <j.0:name>ANDERSONSILVA</j.0:name>
+    <j.0:depiction>mixed martial arts,Brazil,BIRTH PLACE,TRAINER,PLACE OF BIRTH,Black House,champion,Chute Boxe Academy,WEIGHT CLASS</j.0:depiction>
+    <j.0:depiction>mixed martial arts,Brazil,BIRTH PLACE,PLACE OF BIRTH,Black House,champion,Chute Boxe Academy</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02415308n">
+    <j.0:name>THOMASHOOKER</j.0:name>
+    <j.0:depiction>United States,politician,BIRTH PLACE</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02883962n">
+    <j.0:name>THOMASHOBBES</j.0:name>
+    <j.0:depiction>Dean of Exeter</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01634066n">
+    <j.0:name>JAMESHARDEN</j.0:name>
+    <j.0:depiction>politician</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01464220n">
+    <j.0:name>RUSSELLPETERS</j.0:name>
+    <j.0:depiction>actor,Canada,disc jockey,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00047843n">
+    <j.0:name>JACKSONPOLLOCK</j.0:name>
+    <j.0:depiction>United States,politician,painter,painting,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+    <j.0:depiction>United States,politician,painter,painting,BIRTH PLACE</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02114498n">
+    <j.0:name>KIMCATTRALL</j.0:name>
+    <j.0:depiction>actor,actress,Canada,film actor,United States,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03803563n">
+    <j.0:name>KINGARTHUR</j.0:name>
+    <j.0:depiction>screenwriter,film director,Film producer,United Kingdom,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00153825n">
+    <j.0:name>THOMASJANE</j.0:name>
+    <j.0:depiction>actor,film director,United States,BIRTH PLACE,street artist,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02844036n">
+    <j.0:name>THOMASRHETT</j.0:name>
+    <j.0:depiction>singer,United States,Singer-songwriter</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00019466n">
+    <j.0:name>CLARKGABLE</j.0:name>
+    <j.0:depiction>film actor,United States,actor,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02666571n">
+    <j.0:name>ALEXANDERHAMILTON</j.0:name>
+    <j.0:depiction>linguist</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00061696n">
+    <j.0:name>PERRYMASON</j.0:name>
+    <j.0:depiction>character,PERFORMER</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00387308n">
+    <j.0:name>GRIFFINDUNNE</j.0:name>
+    <j.0:depiction>actor,film director,Film producer,United States,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03475626n">
+    <j.0:name>REEDHASTINGS</j.0:name>
+    <j.0:depiction>United States,BIRTH PLACE,PLACE OF BIRTH,philanthropy</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00914765n">
+    <j.0:name>LEWISHAMILTON</j.0:name>
+    <j.0:depiction>Aldershot Town F.C.,Professionalism in association football,Tonbridge Angels F.C.,POSITION,Derby County F.C.,Lewes F.C.,Queens Park Rangers F.C.,BIRTH PLACE,Horsham F.C.,football player</j.0:depiction>
+    <j.0:depiction>Aldershot Town F.C.,Professionalism in association football,Tonbridge Angels F.C.,Derby County F.C.,Lewes F.C.,Queens Park Rangers F.C.,BIRTH PLACE,Horsham F.C.,football player</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00635490n">
+    <j.0:name>WALLACEBEERY</j.0:name>
+    <j.0:depiction>United States,actor,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00262431n">
+    <j.0:name>ALEXANDERLUDWIG</j.0:name>
+    <j.0:depiction>Rhineland-Palatinate,FC Energie Cottbus,Germany national under-21 football team,Goslarer SC 08,FC Rot-Weiß Erfurt,FC St. Pauli,Professionalism in association football,TSV 1860 München,Hertha BSC II,Hertha BSC,SV Werder Bremen,BIRTH PLACE,Dynamo Dresden,Sportfreunde Lotte,football player,Germany</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02194192n">
+    <j.0:name>JAMESWOODS</j.0:name>
+    <j.0:depiction>Professionalism in association football,Burnley F.C.,football player</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02411469n">
+    <j.0:name>ALEXANDERFLEMING</j.0:name>
+    <j.0:depiction>physician</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03277830n">
+    <j.0:name>WILSONCRUZ</j.0:name>
+    <j.0:depiction>actor,United States,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01221954n">
+    <j.0:name>MICHAELJACKSON</j.0:name>
+    <j.0:depiction>journalist,politician,Niue</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02456886n">
+    <j.0:name>JAMESTAYLOR</j.0:name>
+    <j.0:depiction>politician</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01315954n">
+    <j.0:name>MICHAELJORDAN</j.0:name>
+    <j.0:depiction>basketeer,United States,North Carolina Tar Heels men's basketball,father,chairman,shooting guard,Chicago Bulls,Washington Wizards,basketball player,jock</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03347696n">
+    <j.0:name>MASONRUDOLPH</j.0:name>
+    <j.0:depiction>MASTERS,EXTOUR,professional golfer,BIRTH PLACE,USOPEN,PGA,DEATH PLACE</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02465408n">
+    <j.0:name>PORTERROBINSON</j.0:name>
+    <j.0:depiction>United States,disc jockey,PLACE OF BIRTH,Record producer</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#16873284n">
+    <j.0:name>WALLACESTEVENS</j.0:name>
+    <j.0:depiction>United States,author,journalist,poet,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01032387n">
+    <j.0:name>MICHAELJACKSON</j.0:name>
+    <j.0:depiction>actor,Canada,grip,BIRTH PLACE,PLACE OF BIRTH,gaffer</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02120554n">
+    <j.0:name>ALEXANDERHAMILTON</j.0:name>
+    <j.0:depiction>full general,officer</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03340244n">
+    <j.0:name>TAYLORSWIFT</j.0:name>
+    <j.0:depiction>United States,actor,pianist,Singer-songwriter,BIRTH PLACE,musician</j.0:depiction>
+    <j.0:depiction>United States,actor,pianist,Singer-songwriter,BIRTH PLACE,PLACE OF BIRTH,musician</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01719701n">
+    <j.0:name>JAMESTAYLOR</j.0:name>
+    <j.0:depiction>cricketer</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03480253n">
+    <j.0:name>GORDONRAMSAY</j.0:name>
+    <j.0:depiction>celebrity,author,cook,father,Restaurateur,chef,United Kingdom,Television presenter,businessman</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#15149275n">
+    <j.0:name>GRAHAMROGERS</j.0:name>
+    <j.0:depiction>actor,United States,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03586664n">
+    <j.0:name>LOPEZOBRADOR</j.0:name>
+    <j.0:depiction>politician,Mexico,BIRTH PLACE</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01918988n">
+    <j.0:name>SCOTTPETERSON</j.0:name>
+    <j.0:depiction>journalist</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#16836036n">
+    <j.0:name>HENRYHILL</j.0:name>
+    <j.0:depiction>BOWLING,Warwickshire County Cricket Club,COLUMN,BIRTH PLACE,FAMILY</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02310552n">
+    <j.0:name>MICHAELJACKSON</j.0:name>
+    <j.0:depiction>journalist,columnist,author,United Kingdom,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00516029n">
+    <j.0:name>TAYLORLAUTNER</j.0:name>
+    <j.0:depiction>actor,Voice acting,United States,voice actor,model,BIRTH PLACE,PLACE OF BIRTH,martial art</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01668874n">
+    <j.0:name>MICHAELKEATON</j.0:name>
+    <j.0:depiction>film director,film actor,singer,United States,actor,voice actor,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#16168506n">
+    <j.0:name>BAKERMAYFIELD</j.0:name>
+    <j.0:depiction>HIGHSCHOOL,PASTSCHOOLS,CURRENT POSITION,BIRTH PLACE,CLASS</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01455711n">
+    <j.0:name>JAMESTAYLOR</j.0:name>
+    <j.0:depiction>author,grad student</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#15789175n">
+    <j.0:name>YOUNGTHUG</j.0:name>
+    <j.0:depiction>singer,United States,rapper</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03159723n">
+    <j.0:name>HUNTERHAYES</j.0:name>
+    <j.0:depiction>multi-instrumentalist,songster,singer,United States,Singer-songwriter,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00002616n">
+    <j.0:name>ALEXANDERFLEMING</j.0:name>
+    <j.0:depiction>United Kingdom,pharmacologist,bacteriologist,botanist,biologist,physician</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02690296n">
+    <j.0:name>MICHAELJACKSON</j.0:name>
+    <j.0:depiction>Professionalism in association football,Bishop's Cleeve F.C.,Bath City F.C.,Cirencester Town F.C.,BIRTH PLACE,Cheltenham Town F.C.,Swansea City A.F.C.,Weston-super-Mare A.F.C.,football player</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00185984n">
+    <j.0:name>HENRYHILL</j.0:name>
+    <j.0:depiction>cricketer</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01590006n">
+    <j.0:name>HENRYCAVILL</j.0:name>
+    <j.0:depiction>actor,United Kingdom,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01409130n">
+    <j.0:name>HENRYHILL</j.0:name>
+    <j.0:depiction>cricketer,New Zealand</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01984452n">
+    <j.0:name>HARRISONFORD</j.0:name>
+    <j.0:depiction>actor,stage,United States,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#14554109n">
+    <j.0:name>GRAHAMNORTON</j.0:name>
+    <j.0:depiction>Professionalism in association football,BIRTH PLACE</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01180661n">
+    <j.0:name>MICHAELPHELPS</j.0:name>
+    <j.0:depiction>swimming,United States,PLACE OF BIRTH,North Baltimore Aquatic Club,jock</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00283434n">
+    <j.0:name>LEEBRICE</j.0:name>
+    <j.0:depiction>singer,United States,Singer-songwriter,BIRTH PLACE</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00724433n">
+    <j.0:name>CAMPBELLSCOTT</j.0:name>
+    <j.0:depiction>film director,Voice acting,Film producer,United States,actor,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02435990n">
+    <j.0:name>SCOTTPUTESKY</j.0:name>
+    <j.0:depiction>United States,father,lead guitar,musician</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02504825n">
+    <j.0:name>MICHAELJACKSON</j.0:name>
+    <j.0:depiction>singer</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00928010n">
+    <j.0:name>ALEXANDERHAMILTON</j.0:name>
+    <j.0:depiction>businessman,lawyer</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02022100n">
+    <j.0:name>ALEXANDERHAMILTON</j.0:name>
+    <j.0:depiction>clergyman,United States,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00172870n">
+    <j.0:name>MICHAELJACKSON</j.0:name>
+    <j.0:depiction>United States,Seattle Seahawks,BIRTH PLACE,football player</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02278926n">
+    <j.0:name>JORDANHICKS</j.0:name>
+    <j.0:depiction>HIGHSCHOOL,PASTSCHOOLS,CURRENT POSITION,BIRTH PLACE,CLASS,linebacker</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02278204n">
+    <j.0:name>JAMESTAYLOR</j.0:name>
+    <j.0:depiction>cricketer,Wiltshire County Cricket Club,COLUMN,BIRTH PLACE</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00574690n">
+    <j.0:name>WAGNERMOURA</j.0:name>
+    <j.0:depiction>actor,Brazil,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02681084n">
+    <j.0:name>GRAHAMHANCOCK</j.0:name>
+    <j.0:depiction>journalist,author,Scotland,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00048094n">
+    <j.0:name>THOMASJEFFERSON</j.0:name>
+    <j.0:depiction>cryptographer,United States,Founding Fathers of the United States,teacher,inventor,President of the United States,lawyer,philosopher,author,politician,designer,farmer,BIRTH PLACE,diplomat,PLACE OF BIRTH</j.0:depiction>
+    <j.0:depiction>cryptographer,United States,Founding Fathers of the United States,teacher,inventor,President of the United States,lawyer,philosopher,author,politician,designer,farmer,BIRTH PLACE,diplomat</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00133998n">
+    <j.0:name>DIXONEDWARDS</j.0:name>
+    <j.0:depiction>COLLEGE,Minnesota Vikings,BIRTH PLACE,Dallas Cowboys,linebacker,jock,Miami Dolphins</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00689882n">
+    <j.0:name>KELLYPRICE</j.0:name>
+    <j.0:depiction>rhythm and blues,actress,singer,United States,author,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00944582n">
+    <j.0:name>THOMASJEFFERSON</j.0:name>
+    <j.0:depiction>United States,trumpet</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00825553n">
+    <j.0:name>JAMESTAYLOR</j.0:name>
+    <j.0:depiction>cricketer,Leicestershire County Cricket Club,COLUMN,BIRTH PLACE,Nottinghamshire County Cricket Club</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00002617n">
+    <j.0:name>ALEXANDERHAMILTON</j.0:name>
+    <j.0:depiction>United States,ideology,Assistant Secretary of State for Public Affairs,lawyer,statesman,economist,BIRTH PLACE</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01966613n">
+    <j.0:name>KELLYROWLAND</j.0:name>
+    <j.0:depiction>singer,United States,composer,actor,Television presenter,Singer-songwriter,BIRTH PLACE,PLACE OF BIRTH,Compilation album</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01164531n">
+    <j.0:name>TUCKERMAX</j.0:name>
+    <j.0:depiction>screenwriter,Film producer,United States,author,book,BIRTH PLACE,PLACE OF BIRTH,public speaking</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03704563n">
+    <j.0:name>GORDONLIGHTFOOT</j.0:name>
+    <j.0:depiction>Canada,singer,Singer-songwriter,BIRTH PLACE,poet,PLACE OF BIRTH,musician</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02750835n">
+    <j.0:name>WALLACESHAWN</j.0:name>
+    <j.0:depiction>Voice acting,United States,author,actor,playwright,BIRTH PLACE,The Hero Initiative,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02736324n">
+    <j.0:name>MARTINSHKRELI</j.0:name>
+    <j.0:depiction>father,Asset management</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02018831n">
+    <j.0:name>BROOKSLAICH</j.0:name>
+    <j.0:depiction>Canada,Washington Capitals,Ottawa Senators,BIRTH PLACE,ice hockey player,player</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03388686n">
+    <j.0:name>HENRYFORD</j.0:name>
+    <j.0:depiction>illustrator</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03276619n">
+    <j.0:name>BAILEYCHASE</j.0:name>
+    <j.0:depiction>actor,film actor,United States,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03674102n">
+    <j.0:name>KENNEDYFAMILY</j.0:name>
+    <j.0:depiction>RELIGION,Politics of the United States,ESTATE,family,governance,REGION</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01994250n">
+    <j.0:name>GORDONHAYWARD</j.0:name>
+    <j.0:depiction>basketeer,United States,Small forward,Utah Jazz,shooting guard,basketball player,BIRTH PLACE,jock,twin</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02367213n">
+    <j.0:name>SCOTTPETERSON</j.0:name>
+    <j.0:depiction>journalist,author</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03136652n">
+    <j.0:name>MICHAELJACKSON</j.0:name>
+    <j.0:depiction>Preston North End F.C.,Blackpool F.C.,Shrewsbury Town F.C.,wingback,BIRTH PLACE,Tranmere Rovers F.C.,Bury F.C.,Crewe Alexandra F.C.,football player</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#16853341n">
+    <j.0:name>JAMESWOODS</j.0:name>
+    <j.0:depiction>BIRTH PLACE,HONORIFIC SUFFIX</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00036332n">
+    <j.0:name>GARCIALORCA</j.0:name>
+    <j.0:depiction>author,Spain,playwright,poet,BIRTH PLACE,PLACE OF BIRTH,theatre director</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01363162n">
+    <j.0:name>ALEXANDERHAMILTON</j.0:name>
+    <j.0:depiction>clergyman,priest</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#14890432n">
+    <j.0:name>COLESWINDELL</j.0:name>
+    <j.0:depiction>singer,United States,Singer-songwriter,BIRTH PLACE</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03806352n">
+    <j.0:name>JAMESTAYLOR</j.0:name>
+    <j.0:depiction>BIRTH PLACE,DEATH PLACE</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03580632n">
+    <j.0:name>TAYLORKITSCH</j.0:name>
+    <j.0:depiction>actor,Canada,Nutritionist,model,BIRTH PLACE,PLACE OF BIRTH,ice hockey player</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01596366n">
+    <j.0:name>HAYESCARLL</j.0:name>
+    <j.0:depiction>songster,singer,United States,Singer-songwriter,musician</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03226113n">
+    <j.0:name>MICHAELJACKSON</j.0:name>
+    <j.0:depiction>executive,EMPLOYER,producer</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00925473n">
+    <j.0:name>JAMESWOODS</j.0:name>
+    <j.0:depiction>film actor,Film producer,United States,actor,voice actor,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#13914472n">
+    <j.0:name>DAVISWEBB</j.0:name>
+    <j.0:depiction>HIGHSCHOOL,PASTSCHOOLS,CURRENT POSITION,BIRTH PLACE</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00632321n">
+    <j.0:name>SCOTTDISICK</j.0:name>
+    <j.0:depiction>actor,United States,Television presenter,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02319761n">
+    <j.0:name>STEWARTCOPELAND</j.0:name>
+    <j.0:depiction>United States,composer,PLACE OF BIRTH,musician,drummer</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01328723n">
+    <j.0:name>MORGANFREEMAN</j.0:name>
+    <j.0:depiction>actor,film director,film actor,Film producer,United States,teller,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01415087n">
+    <j.0:name>HENRYFORD</j.0:name>
+    <j.0:depiction>United States,bassist</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00787567n">
+    <j.0:name>JAMESFRANCO</j.0:name>
+    <j.0:depiction>screenwriter,film director,film actor,Film producer,United States,author,actor,playwright,film editor,BIRTH PLACE,poet,PLACE OF BIRTH,musician</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00545200n">
+    <j.0:name>MARTINLUTHER</j.0:name>
+    <j.0:depiction>actor,United States,musician</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00331374n">
+    <j.0:name>SCOTTFROST</j.0:name>
+    <j.0:depiction>screenwriter,United States,novelist</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00029766n">
+    <j.0:name>THOMASEDISON</j.0:name>
+    <j.0:depiction>Lighting designer,United States,scientist,engineer,entrepreneur,inventor,BIRTH PLACE,PLACE OF BIRTH,businessman</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01212739n">
+    <j.0:name>TAYLORMOMSEN</j.0:name>
+    <j.0:depiction>actor,actress,singer,United States,composer,model,BIRTH PLACE,musician</j.0:depiction>
+    <j.0:depiction>actor,actress,singer,United States,composer,model,BIRTH PLACE,PLACE OF BIRTH,musician</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00041274n">
+    <j.0:name>GRAHAMGREENE</j.0:name>
+    <j.0:depiction>author,United Kingdom,literary critic,journalist,playwright,BIRTH PLACE,PLACE OF BIRTH,novelist</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02106766n">
+    <j.0:name>JORDANSPIETH</j.0:name>
+    <j.0:depiction>AWARD,MASTERS,RESIDENCE,YEAR,COLLEGE,professional golfer,BIRTH PLACE,TOUR</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01657072n">
+    <j.0:name>HARRISONBARNES</j.0:name>
+    <j.0:depiction>Golden State Warriors,basketeer,United States,Small forward,basketball player,BIRTH PLACE,PLACE OF BIRTH,jock</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01614596n">
+    <j.0:name>PERRYELLIS</j.0:name>
+    <j.0:depiction>couturier,United States,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03388940n">
+    <j.0:name>KIMCLARK</j.0:name>
+    <j.0:depiction>United States,film</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00446739n">
+    <j.0:name>MICHAELJACKSON</j.0:name>
+    <j.0:depiction>New Zealand,poet,BIRTH PLACE,PLACE OF BIRTH,anthropologist</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01924239n">
+    <j.0:name>ANDERSONSILVA</j.0:name>
+    <j.0:depiction>NATIONALITY,Brazil,jock,Chakuriki Gym,kickboxing</j.0:depiction>
+    <j.0:depiction>Brazil,jock,Chakuriki Gym,kickboxing</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#15163514n">
+    <j.0:name>PALMERLUCKEY</j.0:name>
+    <j.0:depiction>United States,BIRTH PLACE</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02142927n">
+    <j.0:name>GARCIAMARQUEZ</j.0:name>
+    <j.0:depiction>screenwriter,Colombia,author,journalist,BIRTH PLACE,PLACE OF BIRTH,novelist</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01399306n">
+    <j.0:name>RUSSELLWILSON</j.0:name>
+    <j.0:depiction>cricketer</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03746852n">
+    <j.0:name>CRUZBECKHAM</j.0:name>
+    <j.0:depiction>Preston North End F.C.,England national football team,association football,United Kingdom,Paris Saint-Germain F.C.,LA Galaxy,Brimsdown Rovers F.C.,England national under-18 football team,Real Madrid C.F.,Midfielder,Tottenham Hotspur F.C.,England national under-21 football team,BIRTH PLACE,A.C. Milan,football player,Manchester United F.C.</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01621310n">
+    <j.0:name>MICHAELJORDAN</j.0:name>
+    <j.0:depiction>actor,United States,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#13876344n">
+    <j.0:name>JAMESTAYLOR</j.0:name>
+    <j.0:depiction>historian</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00129198n">
+    <j.0:name>HENRYFORD</j.0:name>
+    <j.0:depiction>Houston Oilers,New Orleans Saints,tackle,Tennessee Titans</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02226745n">
+    <j.0:name>KENNEDYASSASSINATION</j.0:name>
+    <j.0:depiction>LOCATION,TARGET,witness,WEAPONS,EVENT LOCATION,PERP,assassination,TIMEZONE,CAPTION,FACET OF</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01704997n">
+    <j.0:name>SCOTTPETERSON</j.0:name>
+    <j.0:depiction>editor,author,imprint</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02301850n">
+    <j.0:name>ROBINSONCHIRINOS</j.0:name>
+    <j.0:depiction>WEBSITE ACCOUNT ON,catcher</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02755087n">
+    <j.0:name>ROSSLYNCH</j.0:name>
+    <j.0:depiction>Child actor,singer,United States,actor,discography,Singer-songwriter,BIRTH PLACE,PLACE OF BIRTH,musician,terpsichorean</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03376869n">
+    <j.0:name>PARKERPOSEY</j.0:name>
+    <j.0:depiction>actor,actress,film actor,singer,United States,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00586390n">
+    <j.0:name>HENRYROLLINS</j.0:name>
+    <j.0:depiction>spoken word,singer,United States,author,activism,actor,journalist,Singer-songwriter,publisher,BIRTH PLACE,PLACE OF BIRTH,radio jockey</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03654609n">
+    <j.0:name>THOMASJEFFERSON</j.0:name>
+    <j.0:depiction>United States,athletics</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03771029n">
+    <j.0:name>MICHAELJACKSON</j.0:name>
+    <j.0:depiction>priest,canon</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00043706n">
+    <j.0:name>HENRYKISSINGER</j.0:name>
+    <j.0:depiction>Rhineland-Palatinate,political scientist,United States,businessman,author,politician,diplomat,BIRTH PLACE,Germany</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03336335n">
+    <j.0:name>STEWARTGRANGER</j.0:name>
+    <j.0:depiction>Basketligan,Maine Windjammers,Atlanta Hawks,Continental Basketball Association,United States Basketball League,08 Stockholm Human Rights,Canada,Cleveland Cavaliers,Philadelphia Aces,basketball player,BIRTH PLACE,jock,point guard,New York Knicks,player</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01665635n">
+    <j.0:name>GRAHAMROGERS</j.0:name>
+    <j.0:depiction>Professionalism in association football,Forest Green Rovers F.C.,BIRTH PLACE,Newport County A.F.C.,coach,football player</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00047836n">
+    <j.0:name>MICHAELJACKSON</j.0:name>
+    <j.0:depiction>singer,United States,Singer-songwriter,poet,businessman,musician,Music artist,screenwriter,film director,composer,actor,dancer,entertainer,discography,BIRTH PLACE,PLACE OF BIRTH,businessperson</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00854674n">
+    <j.0:name>JAMESHARDEN</j.0:name>
+    <j.0:depiction>basketeer,United States,Houston Rockets,Oklahoma City Thunder,basketball player,BIRTH PLACE,PLACE OF BIRTH,jock</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00586263n">
+    <j.0:name>MORRISDAY</j.0:name>
+    <j.0:depiction>singer,United States,composer,drummer,actor,PLACE OF BIRTH,musician</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02392115n">
+    <j.0:name>MICHAELJACKSON</j.0:name>
+    <j.0:depiction>United States,Baltimore Ravens,football player,Cleveland Browns</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02608415n">
+    <j.0:name>MICHAELJACKSON</j.0:name>
+    <j.0:depiction>officer,United Kingdom,General,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00718279n">
+    <j.0:name>KINGKONG</j.0:name>
+    <j.0:depiction>United States,album,rapper,PLACE OF BIRTH,musician</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00043792n">
+    <j.0:name>MARSHALLMCLUHAN</j.0:name>
+    <j.0:depiction>philosopher,author,Canada,last name,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00296127n">
+    <j.0:name>SCOTTPETERSON</j.0:name>
+    <j.0:depiction>United States,BIRTH PLACE,conviction,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02266407n">
+    <j.0:name>WALKERHAYES</j.0:name>
+    <j.0:depiction>singer,United States,Singer-songwriter</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00713322n">
+    <j.0:name>MICHAELJACKSON</j.0:name>
+    <j.0:depiction>soldier</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00920507n">
+    <j.0:name>MICHAELRAPAPORT</j.0:name>
+    <j.0:depiction>actor,film actor,United States,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02518276n">
+    <j.0:name>JAMESTAYLOR</j.0:name>
+    <j.0:depiction>politician</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00498874n">
+    <j.0:name>MICHAELJACKSON</j.0:name>
+    <j.0:depiction>United States,radio host</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#16807731n">
+    <j.0:name>JAMESCOMEY</j.0:name>
+    <j.0:depiction>United States,attorney general,BIRTH PLACE,lawyer</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01798589n">
+    <j.0:name>MICHAELKORS</j.0:name>
+    <j.0:depiction>couturier,United States,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02406830n">
+    <j.0:name>ALLENIVERSON</j.0:name>
+    <j.0:depiction>Beşiktaş men's basketball team,basketeer,Memphis Grizzlies,United States,Turkish Basketball League,Detroit Pistons,shooting guard,Denver Nuggets,Philadelphia 76ers,basketball player,BIRTH PLACE,PLACE OF BIRTH,jock,point guard</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#14440647n">
+    <j.0:name>COOPERKUPP</j.0:name>
+    <j.0:depiction>HIGHSCHOOL,PASTSCHOOLS,CURRENT POSITION,BIRTH PLACE,HIGHLIGHTS,CLASS</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03536098n">
+    <j.0:name>MARTINSHEEN</j.0:name>
+    <j.0:depiction>actor,film actor,United States,Ireland,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#14166394n">
+    <j.0:name>ALEXANDERHAMILTON</j.0:name>
+    <j.0:depiction></j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02818545n">
+    <j.0:name>HENRYHILL</j.0:name>
+    <j.0:depiction>New Zealand</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03376681n">
+    <j.0:name>PEREZHILTON</j.0:name>
+    <j.0:depiction>Video blog,United States,Television presenter,blogger,radio host,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03526600n">
+    <j.0:name>MORRISCHESTNUT</j.0:name>
+    <j.0:depiction>actor,United States,BIRTH PLACE,film,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02016774n">
+    <j.0:name>JAMESTAYLOR</j.0:name>
+    <j.0:depiction>opera singer,tenor,United States</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03217051n">
+    <j.0:name>CLARKHOWARD</j.0:name>
+    <j.0:depiction>United States,radio host</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01010961n">
+    <j.0:name>JAMESTAYLOR</j.0:name>
+    <j.0:depiction>Member of parliament,United States,politician</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00895018n">
+    <j.0:name>RUSSELLWESTBROOK</j.0:name>
+    <j.0:depiction>basketeer,United States,shooting guard,Seattle SuperSonics,Oklahoma City Thunder,basketball player,BIRTH PLACE,PLACE OF BIRTH,jock,point guard</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03478966n">
+    <j.0:name>ANDERSONCOOPER</j.0:name>
+    <j.0:depiction>journalist,United States,author,Television presenter,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02110644n">
+    <j.0:name>HENRYHILL</j.0:name>
+    <j.0:depiction>United States,Restaurateur,BIRTH PLACE,PLACE OF BIRTH,gangster</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#15991601n">
+    <j.0:name>JAMESWOODS</j.0:name>
+    <j.0:depiction>Freestyle skiing,United Kingdom</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03465349n">
+    <j.0:name>RUSSELLSIMMONS</j.0:name>
+    <j.0:depiction>United States,author,BIRTH PLACE,magnate,PLACE OF BIRTH,entrepreneur</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00769167n">
+    <j.0:name>JAMESTAYLOR</j.0:name>
+    <j.0:depiction>Canada,politician</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01437787n">
+    <j.0:name>MICHAELJACKSON</j.0:name>
+    <j.0:depiction>computer scientist,consultant,United Kingdom,engineer</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03642013n">
+    <j.0:name>ROMEROBRITTO</j.0:name>
+    <j.0:depiction>artist,painter,carver,sculptor,painting,Brazil,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01210956n">
+    <j.0:name>KIMKARDASHIAN</j.0:name>
+    <j.0:depiction>actress,socialite,United States,model,BIRTH PLACE,PLACE OF BIRTH,movie star</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00736793n">
+    <j.0:name>NELSONCRUZ</j.0:name>
+    <j.0:depiction>Chicago White Sox,Toledo Mud Hens,pitcher</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00455704n">
+    <j.0:name>ALEXANDERLUDWIG</j.0:name>
+    <j.0:depiction>actor,Canada,singer,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#15263533n">
+    <j.0:name>HENRYHILL</j.0:name>
+    <j.0:depiction>priest</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#14305285n">
+    <j.0:name>HUNTERHENRY</j.0:name>
+    <j.0:depiction></j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#15324573n">
+    <j.0:name>JAMESDEAN</j.0:name>
+    <j.0:depiction>STATED IN</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03528297n">
+    <j.0:name>LEWISHAMILTON</j.0:name>
+    <j.0:depiction>United Kingdom,BIRTH PLACE,Mercedes-Benz in Formula One,PLACE OF BIRTH,jock,auto racing</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#00696842n">
+    <j.0:name>JAMESTAYLOR</j.0:name>
+    <j.0:depiction>singer,United States,author,Singer-songwriter,BIRTH PLACE,PLACE OF BIRTH,musician,guitarist</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01798421n">
+    <j.0:name>JAMESTOBACK</j.0:name>
+    <j.0:depiction>screenwriter,film director,United States,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03434421n">
+    <j.0:name>MORGANFAIRCHILD</j.0:name>
+    <j.0:depiction>actor,actress,film actor,United States,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#02104709n">
+    <j.0:name>SCOTTBAIO</j.0:name>
+    <j.0:depiction>actor,United States,Television director,BIRTH PLACE,PLACE OF BIRTH</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03022751n">
+    <j.0:name>MICHAELJACKSON</j.0:name>
+    <j.0:depiction>Brazil women's national football team,association football,Brazil,BIRTH PLACE,football player,ACF Torino ASD</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#03294794n">
+    <j.0:name>COLEHAMELS</j.0:name>
+    <j.0:depiction>United States,Philadelphia Phillies,BIRTH PLACE,starting pitcher</j.0:depiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://utdallas/semclass#01920307n">
+    <j.0:name>RUSSELLCROWE</j.0:name>
+    <j.0:depiction>Film producer,singer,actor,New Zealand,BIRTH PLACE,PLACE OF BIRTH,Australia,musician</j.0:depiction>
+  </rdf:Description>
+</rdf:RDF>
