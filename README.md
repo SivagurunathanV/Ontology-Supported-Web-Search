@@ -2,14 +2,27 @@
 ## Team : Sivagurunathan Velayutham, Shalini Hemachandran
 ## LANGUAGE USED	:	JAVA
 
-To execute the project,
+## OVERVIEW
 
-1. Load the OSWS into an IDE (IntelliJ or Eclipse)
-2. Execute RdfAutoComplete.java
+Search Engines like Google, Bing and Yahoo provide users with autocomplete search suggestions based
+on a partially entered search queries. These suggestions are generated based on the following.
 
-## REPORT
-<iframe src="https://drive.google.com/file/d/16VtDNhUHZ6ulV1yZxp34I8-ySDCGsZl-/preview" width="640" height="480"></iframe>
+1. Users' previous search histories
+2. What other people are searching for, including Trending stories
+3. The terms being typed.
 
+The drawback of this approach is that the suggested completions are often ambiguous in nature. They do
+not provide any support for disambiguating homonyms i.e term with two or more meaning for the search term.
+Our goal in this project is to provide better search suggestion by disambiguating homonyms and
+providing semantically relevant information with the help of building an ontology supported web search
+(OSWS). The project has been inspired from the work of the reference research paper called Google Knows
+Who Is Famous Today [1] in which an ontology based web search is constructed using DBPedia and YAGO
+data sources. A big shortcoming of the project developed in the research paper is the use of DBpedia and
+YAGO data sources which may be outdated since these data sources are updated only once in two years.
+Another shortcoming is that the YAGO and DBPedia end points have a very slow response times.
+The main idea of our project is to address the shortcoming of the project developed in the research paper
+by using a new data source called Babelnet - which provides very fast API response times and contains latest
+up to date information.
 
 ## DEMO
 
