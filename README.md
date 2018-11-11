@@ -7,6 +7,10 @@ To execute the project,
 1. Load the OSWS into an IDE (IntelliJ or Eclipse)
 2. Execute RdfAutoComplete.java
 
+## REPORT
+<iframe src="https://drive.google.com/file/d/16VtDNhUHZ6ulV1yZxp34I8-ySDCGsZl-/preview" width="640" height="480"></iframe>
+
+
 ## DEMO
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=_ONk4_8BUW4
