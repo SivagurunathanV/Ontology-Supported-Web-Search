@@ -16,7 +16,7 @@ not provide any support for disambiguating homonyms i.e term with two or more me
 Our goal in this project is to provide better search suggestion by disambiguating homonyms and
 providing semantically relevant information with the help of building an ontology supported web search
 (OSWS). The project has been inspired from the work of the reference research paper called Google Knows
-Who Is Famous Today [1] in which an ontology based web search is constructed using DBPedia and YAGO
+Who Is Famous Today [research paper] in which an ontology based web search is constructed using DBPedia and YAGO
 data sources. A big shortcoming of the project developed in the research paper is the use of DBpedia and
 YAGO data sources which may be outdated since these data sources are updated only once in two years.
 Another shortcoming is that the YAGO and DBPedia end points have a very slow response times.
