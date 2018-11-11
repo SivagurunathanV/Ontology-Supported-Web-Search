@@ -1,5 +1,5 @@
 ## PROJECT TITLE	:	Ontology Supported Web Search
-## Team : Sivagurunathan Velayutham, Shalini Hemachandran
+## TEAM : Sivagurunathan Velayutham, Shalini Hemachandran
 ## LANGUAGE USED	:	JAVA
 
 ## OVERVIEW
